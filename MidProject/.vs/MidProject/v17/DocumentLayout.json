@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4thSemester\\DBmidproject\\MidProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|d:\\4thsemester\\dbmidproject\\midproject\\midproject\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\rubricfrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\rubricfrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\evaluationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\evaluationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\evaluationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\evaluationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\assessmentcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\assessmentcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\assessmentcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\assessmentcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\assessmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\assessmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\rubriclevelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\rubriclevelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\rubriclevelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\rubriclevelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\rubricfrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\rubricfrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\assessmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\assessmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\closform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\closform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\studentform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\studentform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\closform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\closform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\optionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\optionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\optionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\optionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\midproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\midproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\studenceattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\studenceattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\studenceattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\studenceattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\classattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\classattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\rubricfrome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\rubricfrome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|D:\\4thSemester\\DBmidproject\\MidProject\\midproject\\classattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB8965-2C44-4C01-814F-6A665E448F42}|MidProject\\MidProject.csproj|solutionrelative:midproject\\classattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvaluationForm.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\EvaluationForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\EvaluationForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\EvaluationForm.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\EvaluationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:02:24.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvaluationForm.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\EvaluationForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\EvaluationForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\EvaluationForm.cs",
+              "RelativeToolTip": "MidProject\\EvaluationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:11:25.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\ReportsForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "MidProject\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:24:57.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RubricFrome.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\RubricFrome.cs",
+              "RelativeDocumentMoniker": "MidProject\\RubricFrome.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\RubricFrome.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\RubricFrome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:31:54.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssessmentComponent.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\AssessmentComponent.cs",
+              "RelativeDocumentMoniker": "MidProject\\AssessmentComponent.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\AssessmentComponent.cs",
+              "RelativeToolTip": "MidProject\\AssessmentComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:51:09.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssessmentComponent.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\AssessmentComponent.cs",
+              "RelativeDocumentMoniker": "MidProject\\AssessmentComponent.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\AssessmentComponent.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\AssessmentComponent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:38:48.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssessmentForm.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\AssessmentForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\AssessmentForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\AssessmentForm.cs",
+              "RelativeToolTip": "MidProject\\AssessmentForm.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwGQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:28:13.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RubricLevelForm.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\RubricLevelForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\RubricLevelForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\RubricLevelForm.cs",
+              "RelativeToolTip": "MidProject\\RubricLevelForm.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:58:40.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssessmentForm.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\AssessmentForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\AssessmentForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\AssessmentForm.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\AssessmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:09:26.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RubricFrome.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\RubricFrome.cs",
+              "RelativeDocumentMoniker": "MidProject\\RubricFrome.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\RubricFrome.cs",
+              "RelativeToolTip": "MidProject\\RubricFrome.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCUAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:35:27.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RubricLevelForm.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\RubricLevelForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\RubricLevelForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\RubricLevelForm.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\RubricLevelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:56:41.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentForm1.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\StudentForm1.cs",
+              "RelativeDocumentMoniker": "MidProject\\StudentForm1.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\StudentForm1.cs [Design]",
+              "RelativeToolTip": "MidProject\\StudentForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:05:56.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\Evaluation.cs",
+              "RelativeDocumentMoniker": "MidProject\\Evaluation.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\Evaluation.cs",
+              "RelativeToolTip": "MidProject\\Evaluation.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAAwMIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:39:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CLOSForm.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\CLOSForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\CLOSForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\CLOSForm.cs",
+              "RelativeToolTip": "MidProject\\CLOSForm.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAgwAsBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:02:25.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OptionPage.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\OptionPage.cs",
+              "RelativeDocumentMoniker": "MidProject\\OptionPage.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\OptionPage.cs",
+              "RelativeToolTip": "MidProject\\OptionPage.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAD4v1AAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:42:07.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OptionPage.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\OptionPage.cs",
+              "RelativeDocumentMoniker": "MidProject\\OptionPage.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\OptionPage.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\OptionPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:41:56.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CLOSForm.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\CLOSForm.cs",
+              "RelativeDocumentMoniker": "MidProject\\CLOSForm.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\CLOSForm.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\CLOSForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:24:20.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\Form1.cs",
+              "RelativeDocumentMoniker": "MidProject\\Form1.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:41:18.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Attendence.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\Attendence.cs",
+              "RelativeDocumentMoniker": "MidProject\\Attendence.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\Attendence.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\Attendence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T08:00:27.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MidProject.csproj",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\MidProject.csproj",
+              "RelativeDocumentMoniker": "MidProject\\MidProject.csproj",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\MidProject.csproj",
+              "RelativeToolTip": "MidProject\\MidProject.csproj",
+              "ViewState": "AQIAAB0AAAAA0HBS92UZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T13:15:21.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudenceAttendence.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\StudenceAttendence.cs",
+              "RelativeDocumentMoniker": "MidProject\\StudenceAttendence.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\StudenceAttendence.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\StudenceAttendence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:50:25.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudenceAttendence.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\StudenceAttendence.cs",
+              "RelativeDocumentMoniker": "MidProject\\StudenceAttendence.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\StudenceAttendence.cs",
+              "RelativeToolTip": "MidProject\\StudenceAttendence.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:51:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassAttendence.cs [Design]",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\ClassAttendence.cs",
+              "RelativeDocumentMoniker": "MidProject\\ClassAttendence.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\ClassAttendence.cs [Design]",
+              "RelativeToolTip": "..\\dbmidproject-2022-cs-96\\MidProject\\MidProject\\ClassAttendence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:39:15.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RubricFrome.Designer.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\RubricFrome.Designer.cs",
+              "RelativeDocumentMoniker": "MidProject\\RubricFrome.Designer.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\RubricFrome.Designer.cs",
+              "RelativeToolTip": "MidProject\\RubricFrome.Designer.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAUwJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:48:12.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClassAttendence.cs",
+              "DocumentMoniker": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\ClassAttendence.cs",
+              "RelativeDocumentMoniker": "MidProject\\ClassAttendence.cs",
+              "ToolTip": "D:\\4thSemester\\DBmidproject\\MidProject\\MidProject\\ClassAttendence.cs",
+              "RelativeToolTip": "MidProject\\ClassAttendence.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAArwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:42:13.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

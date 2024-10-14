@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AssessmentComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssessmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClassAttendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CLOSForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Evaluation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EvaluationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OptionPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RubricFrome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RubricLevelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudenceAttendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
